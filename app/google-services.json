@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336069484269",
+    "firebase_url": "https://marketsasa-f33ad.firebaseio.com",
+    "project_id": "marketsasa-f33ad",
+    "storage_bucket": "marketsasa-f33ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336069484269:android:67049be7db68342a",
+        "android_client_info": {
+          "package_name": "com.king.marketsasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336069484269-b08sdpf2sn9p39k38rpdmelq4evtdmr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.king.marketsasa",
+            "certificate_hash": "94406f23b0303b3b6b991752e0021d85cd1a24f4"
+          }
+        },
+        {
+          "client_id": "336069484269-n9dgchvh3kqtgqaqtgv8lmdqmvaq283s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsdMkuLMoAd0SsBpdlUYEpoQPs9daO5io"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336069484269-n9dgchvh3kqtgqaqtgv8lmdqmvaq283s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
